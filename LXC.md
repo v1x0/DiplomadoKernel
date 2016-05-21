@@ -152,4 +152,4 @@ or create user accounts.
 * lxc-ls: muestra todos los contenedores que hay en el sistema
 * lxc-info -n <nombre>: muestra la información específica de un contenedor
 
-![]('images/img3.png')
+![No se encuentra la imagen](images/img3.png)
