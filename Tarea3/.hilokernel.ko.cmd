@@ -1,0 +1,1 @@
+cmd_/home/david/DiplomadoKernel/Tarea3/hilokernel.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/david/DiplomadoKernel/Tarea3/hilokernel.ko /home/david/DiplomadoKernel/Tarea3/hilokernel.o /home/david/DiplomadoKernel/Tarea3/hilokernel.mod.o
